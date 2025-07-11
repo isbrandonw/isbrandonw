@@ -24,9 +24,9 @@ I am a dedicated software developer with a strong background in Nuxt.js, C, C++,
 ## Skills & Technologies
 
 - **Languages:** C, C++, JavaScript, TypeScript
-- **Frameworks:** Nuxt.js, Vue.js
+- **Frameworks:** Zephyr, FreeRTOS, Nuxt.js, Vue.js
 - **Domains:** IoT, Automation, Embedded Systems
-- **Platforms:** ESP32, Linux
+- **Platforms:** STM32, ESP32, Linux
 
 ---
 
