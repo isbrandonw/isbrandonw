@@ -13,7 +13,7 @@ Technical Program Analyst
 * **Check out my projects below!**
 
 Personal Website and Blog
-- https://isbrandon.org
+- https://www.isbrandon.org
 
 ## About Me
 
@@ -24,7 +24,7 @@ I am a dedicated software developer with a strong background in Nuxt.js, C, C++,
 ## Skills & Technologies
 
 - **Languages:** C, C++, JavaScript, TypeScript
-- **Frameworks:** Zephyr, FreeRTOS, Nuxt.js, Vue.js
+- **Frameworks:** ESP32, FreeRTOS, Nuxt.js, Vue.js
 - **Domains:** IoT, Automation, Embedded Systems
 - **Platforms:** STM32, ESP32, Linux
 
